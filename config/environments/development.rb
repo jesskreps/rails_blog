@@ -36,7 +36,7 @@ Rails.application.configure do
   # Raises helpful error messages.
   config.assets.raise_runtime_errors = true
 
-ENV["DARK_SKY_API_KEY"] = "d3509891d8ec6b7d902e990bdea1bf55"
+
 
   # Raises error for missing translations
   # config.action_view.raise_on_missing_translations = true
